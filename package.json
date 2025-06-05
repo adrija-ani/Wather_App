@@ -1,0 +1,13 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Advanced Weather App - Technical Assessment",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server",
+    "dev": "npx live-server --open=/index.html"
+  },
+  "keywords": ["weather", "javascript", "html", "css"],
+  "author": "Your Name",
+  "license": "MIT"
+}
