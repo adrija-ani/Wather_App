@@ -1,6 +1,5 @@
 # 🌤️ Advanced Weather App
 
-**Built by:** John Doe  
 **For:** PM Accelerator Technical Assessment
 
 A comprehensive weather application that provides real-time weather data, 5-day forecasts, and complete CRUD operations for weather records management.
