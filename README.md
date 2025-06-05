@@ -242,7 +242,7 @@ The app is fully responsive and includes:
 For questions or issues:
 - Create an issue in the GitHub repository
 - Contact: adrijaa701@gmail.com
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/adrija-ani/)]
+- LinkedIn: [[My LinkedIn Profile](https://www.linkedin.com/in/adrija-ani/)]
 
 ## 📄 License
 
